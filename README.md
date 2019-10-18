@@ -1,2 +1,3 @@
-# Game-Engines-1-2019
-*Assignment Proposal*
+# Assignment Proposal
+##Details
+I want to make a procedurally generated dungeon crawler. Similar to games like the >Binding of Issac and >Spelunky
